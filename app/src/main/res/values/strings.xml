@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Faktöriyel ve Ardışık Sayılar</string>
+    <string name="text1"></string>
+    <string name="hint1">...</string>
+    <string name="text2">Ardışık Sayılar</string>
+    <string name="hint2">\'den</string>
+    <string name="hint3">\'e kadar</string>
+    <string name="hint4">\'er artan</string>
+    <string name="text3">sayıların</string>
+    <string name="text4">Toplamı</string>
+    <string name="text5">Çarpımı</string>
+    <string name="text6">0</string>
+    <string name="hata">Bir sorun oluştu, lütfen sorunu bildirip bana yardımcı olur musun?</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7471913340</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="hata_bellek">Hata! Bellek Limiti Aşıldı</string>
+</resources>
